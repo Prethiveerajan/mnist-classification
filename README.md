@@ -135,7 +135,9 @@ print(x_single_prediction)
 
 
 ### New Sample Data Prediction
-![new](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/a6149dc7-4a6d-43ca-8ad7-04702ab38fc6)
+
+![image](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/e997eca4-2a93-4354-b6da-4d88069caedf)
+
 
 
 
