@@ -120,18 +120,24 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![o1](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/b0f9df35-a463-427e-acc3-f27b647b3f06)
+![o2](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/84d70742-b2a4-4dd9-8fd8-e9d2b1c03684)
 
 
 
 ### Classification Report
+![class](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/6811f728-0030-4f9c-9f81-50eeff0bb8a5)
 
 
 ### Confusion Matrix
+![con](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/b25d40bc-0f08-405f-acd1-8da59ce341ac)
 
 
 
 ### New Sample Data Prediction
+![new](https://github.com/Prethiveerajan/mnist-classification/assets/94233064/a6149dc7-4a6d-43ca-8ad7-04702ab38fc6)
 
 
 
 ## RESULT
+The Experiment has been successfully completed
